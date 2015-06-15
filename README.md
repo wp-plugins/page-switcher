@@ -18,7 +18,14 @@ Change post types as needed.
 
 == Screenshots ==
 
+1. This is the first screen shot
 '/assets/screenshot-1.png'
+
+2. This is the second screen shot
 '/assets/screenshot-2.png'
+
+3. This is the third screen shot
 '/assets/screenshot-3.png'
+
+4. This is the fouth screen shot
 '/assets/screenshot-4.png'
