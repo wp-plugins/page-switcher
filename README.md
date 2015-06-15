@@ -27,5 +27,5 @@ Change post types as needed.
 3. This is the third screen shot
 '/assets/screenshot-3.png'
 
-4. This is the fouth screen shot
+4. This is the fourth screen shot
 '/assets/screenshot-4.png'
