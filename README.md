@@ -3,6 +3,8 @@ Tags: page switcher, post switcher, switch, change page, smart search, switch pa
 Requires at least: 3.0.0
 Tested up to: 4.2.2
 Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easily change or switch the current page to another pages from the wordpress editor.
 
@@ -13,3 +15,10 @@ Easily change or switch the current page to another pages from the wordpress edi
 Install the plugin into the plugins/page-switcher directory, and activate.
 From the post edit screen, above the \"Publish\" button is the \"Post Type\" interface.
 Change post types as needed.
+
+== Screenshots ==
+
+'/assets/screenshot-1.png'
+'/assets/screenshot-2.png'
+'/assets/screenshot-3.png'
+'/assets/screenshot-4.png'
