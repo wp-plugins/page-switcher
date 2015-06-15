@@ -1,15 +1,9 @@
 <?php
 /**
- *
- * @link              http://velismichel.com
- * @since             1.0.0
- * @package           page_Switcher
- *
- * @wordpress-plugin
  * Plugin Name:       Page Switcher
  * Plugin URI:        http://velismichel.com/Page-Switcher.zip
- * Description:       Easily change or switch the current page to another pages from the wordpress editor.
- * Version:           1.0.0
+ * Description:       Easily change or switch the current page to other pages from the wordpress page editor.
+ * Version:           1.0.1
  * Author:            Michel Velis
  * Author URI:        http://velismichel.com
  * License:           GPL-2.0+

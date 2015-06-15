@@ -1,7 +1,7 @@
 <?php
 /**
  * @link              http://velismichel.com
- * @since             1.0.0
+ * @since             1.0.1
  * @package           page_Switcher
  * @author            Michel Velis
  * @website           http://velismichel.com
@@ -50,7 +50,7 @@ function content_switcher_func_editor(){
          ?>
         </select>
         <script>
-            $(".page-switcher-select").select2({
+            jQuery(".page-switcher-select").select2({
               placeholder: "Select/Search a Page",
               allowClear: true
             });
