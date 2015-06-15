@@ -7,10 +7,10 @@ Contributors: michelve
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily change or switch the current page to another pages from the wordpress editor.
+Easily change or switch the current page to other pages from the wordpress editor.
 
 == Description ==
-Easily change or switch the current page to another pages from the wordpress editor. It also adds a search widget to the dashboard to access your pages faster, also there is a added filter to post types as well. Also the main search box inside the page edot was replace with this plugin
+Easily change or switch the current page to other pages from the wordpress editor. It also adds a search widget to the dashboard to access your pages faster, also there is a added filter to post types as well. Also the main search box inside the page edot was replace with this plugin
 
 == Installation ==
 Install the plugin into the plugins/page-switcher directory, and activate.
@@ -30,3 +30,12 @@ Change post types as needed.
 
 4. This is the fouth screen shot
 '/assets/screenshot-4.png'
+
+== Changelog ==
+ 
+= 1.0.1 =
+* Fixed jQuery conflict when tryign to access to drop down menu.
+* Improved plugin UI.
+
+= 1.0.0 =
+* Initial Release
